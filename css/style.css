@@ -91,47 +91,43 @@ h3{
     margin-top: 3px;
 }
 
-
-.editoriale{ 
-    background-color:rgba(69,171,234,255);
-    border-radius: 25%;
+.item{ 
+    border-radius: 25px;
     color: aliceblue;
     font-size: 12px;
+    padding: 4px;
+
+
+}
+.editoriale{ 
+    background-color:rgba(69,171,234,255);
+    
 }
 
 .viola{ 
     background-color: rgba(156,114,228,255);
-    border-radius: 25%;
-    color: aliceblue;
-    font-size: 12px;
+    
 }
 
 .intervista{
-    border-radius: 25%;
-    color: aliceblue;
-    font-size: 12px;
+   
     background-color: rgba(100,192,169,255);
 
 }
 
 .mobile{ 
-    border-radius: 25%;
-    color: aliceblue;
-    font-size: 12px;
+  
     background-color: rgba(242,158,51,255);
+    
 }
 
 .web{ 
-    border-radius: 25%;
-    color: aliceblue;
-    font-size: 12px;
+   
     background-color: rgba(216,99,161,255);
 }
 
 .sales{ 
-    border-radius: 25%;
-    color: aliceblue;
-    font-size: 12px;
+   
     background-color: rgba(176,201,38,255);
 } 
 
@@ -140,6 +136,7 @@ h3{
     color: rgba(103,193,170,255);
     border:0.5px solid rgba(103,193,170,255);
     border-radius: 100%;
+    margin-right: 10px;
     
 }
 
@@ -148,6 +145,7 @@ h3{
     color: red;
     border:0.5px solid red;
     border-radius: 100%;
+    margin-right: 10px;
 }
 
 .done, .not-done{ 
